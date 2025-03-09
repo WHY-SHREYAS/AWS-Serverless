@@ -17,7 +17,7 @@ Below is the architecture diagram of the project:
 
 ## Prerequisites
 - An AWS account
-- AWS CLI installed and configured
+- Text Editor (VS Code, Notepad++ etc.)
 - Basic knowledge of HTML, JavaScript, and Python
 
 ## Project Setup
