@@ -13,7 +13,7 @@ This project demonstrates how to build a simple web application using AWS servic
 ## Architecture
 Below is the architecture diagram of the project:
 
-![Architecture Diagram](architecture_diagram.png)
+![Architecture Diagram](Architecture.png)
 
 ## Prerequisites
 - An AWS account
