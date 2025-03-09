@@ -1,4 +1,4 @@
-# Math Web Application using AWS Services
+# Serverless Web Application using AWS Services
 
 ## Overview
 This project demonstrates how to build a simple web application using AWS services. The application performs basic math operations and stores results in a database.
